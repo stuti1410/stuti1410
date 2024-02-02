@@ -5,7 +5,6 @@ I'm Stuti, a technical writer based in Dublin, Ireland.
 - 🔭 I’m currently working on user research for an open-source product.
 - 🌱 I’m currently learning advanced technical writing skills and the basics of Python.
 - 📚 I want to learn more about Data Engineering.
-- 📫 How to reach me: https://www.linkedin.com/in/stuti-shukla-656268a2/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Last summer, I ate grapefruit for the first time! And I wouldn't say I liked it.😅
 <!--
