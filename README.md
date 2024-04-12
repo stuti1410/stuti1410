@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm Stuti, a technical writer based in Dublin, Ireland.
+I'm Stuti, a former technical writer looking to secure a Data Engineering job.
 
-- 🔭 I’m currently working on user research for an open-source product.
-- 🌱 I’m currently learning advanced technical writing skills and the basics of Python.
-- 📚 I want to learn more about Data Engineering.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Last summer, I ate grapefruit for the first time! And I wouldn't say I liked it.😅
+- 👩🏻‍💻 I’m currently working on a data engineering capstone project.
+- 🌱 I’m currently learning ETL and Data Pipelines with Shell, Airflow and Kafka.
+- 📚 I have recently completed an IBM Data Engineering Capstone Project.
+- 😄 Feel free to look at my projects.
+- 🔭 Things I plan to achieve soon: certifications that prove my knowledge in Data Engineering.
+- 📫 How to reach me: [LinkedIn]https://www.linkedin.com/in/stuti-shukla-656268a2/
+- 
 <!--
 **stuti1410/stuti1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
