@@ -19,3 +19,25 @@ I'm Stuti, a former technical writer looking to secure a Data Engineering job.
 **stuti1410/stuti1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="ApacheAirflow" alt="ApacheAirflow" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="ApacheKafka" alt="ApacheKafka" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="ApacheSpark" alt="ApacheSaprk" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg">
+  <img alt="Markdown" title="Markdown" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg">
+  <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+ <a title="Bootstrap, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg"><img width="40" alt="Bootstrap logo Light: 'So light!' Dark: 'So dark!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></a>
+</picture>
+ </div> 
+ <br/>
