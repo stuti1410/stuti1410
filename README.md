@@ -10,8 +10,5 @@ I'm Stuti, a former technical writer looking to secure a Data Engineering job.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stuti-shukla-656268a2/)
 <!--
 **stuti1410/stuti1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 -->
+![](https://github.com/stuti1410&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true)
