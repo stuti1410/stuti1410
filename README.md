@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<div id="badges">
+
 ### Hi there 👋
 
 I'm Stuti, a former technical writer looking to secure a Data Engineering job.
