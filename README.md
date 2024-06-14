@@ -7,7 +7,7 @@
 
 ### About me
 
-I'm Stuti, a former technical writer looking to secure a Data Engineering job.
+I'm Stuti, a technical writer passionate about Data Engineering.
 
 - 👩🏻‍💻 I’m currently working on a data engineering capstone project.
 - 🌱 I’m currently learning ETL and Data Pipelines with Shell, Airflow and Kafka.
