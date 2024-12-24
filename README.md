@@ -13,7 +13,7 @@ I'm Stuti, a technical writer passionate about Data Engineering.
 - 🌱 I’m currently learning ETL and Data Pipelines with Shell, Airflow and Kafka.
 - 🐍 I'm also strengthening my coding skills in Python. One program a day!
 - 📚 I have recently completed an IBM Data Engineering Capstone Project.
-- 😄 Feel free to look at my projects.
+- 😄 Feel free to look at my repositories.
 - 🔭 Things I plan to achieve soon: certifications that validate and prove my skills and knowledge in Data Engineering.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stuti-shukla-656268a2/)
 <!--
