@@ -7,14 +7,13 @@
 
 ### About me
 
-I'm Stuti, a technical writer passionate about Data Engineering.
+I'm Stuti, a technical writer passionate about programming and Data Engineering concepts.
 
-- 👩🏻‍💻 I’m currently working on a data engineering capstone project.
+- 👩🏻‍💻 I’ve recently worked on a IBM data engineering capstone project.
 - 🌱 I’m currently learning ETL and Data Pipelines with Shell, Airflow and Kafka.
 - 🐍 I'm also strengthening my coding skills in Python. One program a day!
-- 📚 I have recently completed an IBM Data Engineering Capstone Project.
 - 😄 Feel free to look at my repositories.
-- 🔭 Things I plan to achieve soon: certifications that validate and prove my skills and knowledge in Data Engineering.
+- 🔭 Things I plan to achieve soon: certifications that validate and prove my skills and knowledge in Python and Data Engineering.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stuti-shukla-656268a2/)
 <!--
 **stuti1410/stuti1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
